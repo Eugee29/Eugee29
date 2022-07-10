@@ -9,7 +9,7 @@ I'm a Full-Stack developer, specializing in the MERN stack.
 ##
 
 
-## Technologies I Use
+## My Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-DF4931?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-3D96F1?style=flat-square&logo=CSS3&logoColor=white)
