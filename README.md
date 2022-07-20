@@ -1,15 +1,14 @@
 # Hi, I'm Uri! 😎
 
 
-I'm a Full-Stack developer, specializing in the MERN stack.
-
+I'm a Full-Stack developer, proficient in writing frontend focused applications using React & Redux, Node.js, Express, TypeScript, MongoDB and MySQL.
 
 ## 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uri-gruda-70b36b22b/)
 ##
 
 
-## My Stack
+## What I Know
 
 ![HTML5](https://img.shields.io/badge/-HTML5-DF4931?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-3D96F1?style=flat-square&logo=CSS3&logoColor=white)
