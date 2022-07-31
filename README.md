@@ -8,7 +8,7 @@ Proficient in writing e2e web applications.
 - ✏️ Currently sharpening my skills in ReactJS and TypeScript.
 - 🔎 Constantly  learning new technologies and acquiring new skills.
 - 📧 Feel free to contact me!: uri2920@gmail.com
-- ⭐ Some more about me: In my free time I enjoy playing video games and watching movies & series.
+- ⭐ Some more about me: I love video games, TV shows and my cats 😺😺.
 
 ## My LinkeIn
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uri-gruda-70b36b22b/)
