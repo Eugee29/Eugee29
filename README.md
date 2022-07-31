@@ -7,7 +7,7 @@ Proficient in writing e2e web applications.
 - 💼 Seeking full-time position as a web developer.
 - ✏️ Currently sharpening my skills in ReactJS and TypeScript.
 - 🔎 Constantly  learning new technologies and acquiring new skills.
-- 📧 Feel free to contact me!: uri2920@gmail.com(uri2920@gmail.com)
+- 📧 Feel free to contact me!: uri2920@gmail.com
 - ⭐ Some more about me: In my free time I enjoy playing video games and watching movies & series.
 
 ## My LinkeIn
